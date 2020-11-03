@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12a3ac84-d56d-405a-83ed-d405f44fa2ad" name="Default Changelist" comment="Words got IDs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.go" beforeDir="false" afterPath="$PROJECT_DIR$/database.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangmanREST" beforeDir="false" afterPath="$PROJECT_DIR$/hangmanREST" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="12a3ac84-d56d-405a-83ed-d405f44fa2ad" name="Default Changelist" comment="HighScore implemented" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +94,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Words got IDs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Words got IDs" />
+    <MESSAGE value="HighScore implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="HighScore implemented" />
   </component>
   <component name="WindowStateProjectService">
     <state width="622" height="180" key="GridCell.Tab.0.bottom" timestamp="1601922531802">
